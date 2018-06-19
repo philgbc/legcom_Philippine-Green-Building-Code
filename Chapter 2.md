@@ -134,7 +134,7 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
 
 _Figure 1. Schematic representation of a window and related horizontal overhang or vertical fin_
 
-* **Insert Figure 1.**
+![alt text](https://github.com/philgbc/PGBCode/blob/master/src/Fig-01.png "Figure 1")
 
 <div>
 <table>
