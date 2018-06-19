@@ -132,11 +132,10 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
   <li>Shading which is not attached to windows or placed on a wall with no window should not be counted.</li>
 </ol>
 
-_Figure 1. Schematic representation of a window and related horizontal overhang or vertical fin_
-
-![alt text](https://github.com/philgbc/PGBCode/blob/master/src/Fig-01.png "Figure 1")
-
-<img src="https://github.com/philgbc/PGBCode/blob/master/src/Fig-01.png" alt="Figure 1" width="150" height="150">
+<p align="center">
+<i>Figure 1. Schematic representation of a window and related horizontal overhang or vertical fin</i><br>
+<img src="https://github.com/philgbc/PGBCode/blob/master/src/Fig-01.png" alt="Figure 1" width="200" height="200">
+</p>
 
 <div>
 <table>
