@@ -19,13 +19,13 @@ Energy efficiency requires the adoption of efficient practices, designs, methods
 
 #### 10.1.1 Air Tightness and Moisture Protection
 
-##### a. <u>General</u>
+##### a. General
 As the humidity levels are very high in the Philippines, the unwanted infiltration and humidity ingress into the spaces can cause additional load on the air conditioning system and a detrimental impact on air quality. Buildings must be planned and designed with specific details to ensure that air tightness is maximized. Details should precisely include joints, service entry points, windows and doors. The implementation of these measures requires only increased attention to the construction details and it can be implemented at practically no cost.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Buildings shall be planned and designed with:
 
 <ol type="i">
@@ -33,12 +33,12 @@ Buildings shall be planned and designed with:
   <li>Moisture protection on the surface of the external façade to reduce vapor or moisture migration from external spaces</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings and spaces without provisions for air conditioning systems are exempt.
 
 #### 10.1.2. Glass Properties
 
-##### a. <u>General</u>
+##### a. General
 Compared to wall assemblies, glazing transfers more heat and hence, it is ideal to reduce the amount of glazing with respect to the wall in order to reduce internal heat gains.
 
 The requirement of Window to Wall Ratio (WWR) needs to be balanced with the amount of daylight coming through the glazed area.
@@ -47,10 +47,10 @@ Solar Heat Gain Coefficient (SHGC) is used to determine the amount of solar heat
 
 Visible light Transmittance (VLT) is used to determine the amount of light transmitted through the glass.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 WWR shall be balanced with SHGC to maintain flexibility in design. To further describe, the higher the designed building WWR, the lower the required SHGC in glass windows shall be and vise-versa. This does not however, remove the option for building owners to apply windows with low SHGC for building with low WWR.
 
 <ol type="i">
@@ -181,36 +181,36 @@ _Figure 1. Schematic representation of a window and related horizontal overhang 
 
 _For glass products, see Annex 2 Glass Library._
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 ### 10.2 NATURAL VENTILATION
 
-##### a. <u>General</u>
+##### a. General
 This measure will give building occupants the flexibility and opportunity to use natural ventilation for free cooling and fresh air in regularly occupied spaces. This measure will limit the tendency to create glass-sealed box type buildings. Size of each room and space shall be consistent with the occupancy load of the NBC.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li>Operable windows or balcony door shall be provided in regularly occupied spaces. The size of the opening shall be equal to at least ten percent (10%) of the floor area of regularly occupied spaces.</li>
   <li>All operable windows shall be provided with safety features for protection against strong winds, water penetration and protection for building occupants including child safety and security.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 ### 10.3 BUILDING ENVELOPE COLOR
 
-##### a. <u>General</u>
+##### a. General
 Light-colored building envelope, especially the roof areas which are the most vulnerable, can reduce heat transfer from the outside to the inside of the building by having surfaces with high Solar Reflectance Index (SRI).
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Building metal roof surfaces shall either be colored white or have a minimum SRI of 70. _See Table 5._
 
 <div>
@@ -276,18 +276,18 @@ Building metal roof surfaces shall either be colored white or have a minimum SRI
 <p>Source: PPG Cool Color Series &ndash; www.coolcolorsdatabase.ppg.com as rated by the Cool Roof Rating Council, US</p>
 </div>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 ### 10.4 ROOF INSULATION
 
-##### a. <u>General</u>
+##### a. General
 Insulation can help reduce heat gain in a building thus improving thermal comfort, acoustic quality and reducing the load on the air conditioning system.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Buildings shall be provided with roof insulation so that the average thermal resistance value (R-Value) of the roof is at least R-8. _See Annex 4 (Insulation R-Value)._
 
 _For Insulating Values of Common Building Materials see Annex 3_
@@ -391,20 +391,20 @@ _For Insulating Values of Common Building Materials see Annex 3_
 <p>Source: U.S. Department of Energy &ndash; Insulation Materials
 </div>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 ### 10.5 MECHANICAL SYSTEMS
 
 #### 10.5.1 Air Conditioning System
 
-##### a. <u>General</u>
+##### a. General
 Air conditioning typically accounts for more than fifty percent (50%) of total electricity costs in a centrally air conditioned building. Hence, the efficiency of an air conditioning system is of prime importance. The heart of the air conditioning system is the cooling system, typically chillers in large buildings and is important to procure an efficient cooling system.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 The cooling equipment shall meet or exceed the minimum efficiency requirements as indicated in Tables 7 and 8.
 
 <div>
@@ -693,21 +693,21 @@ The cooling equipment shall meet or exceed the minimum efficiency requirements a
 <p>Source: 2010 PSVARE Standards</p>
 </div>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings with no air-conditioning systems are exempt.
 
 #### 10.5.2 Water Heating System
 
-##### a. <u>General</u>
+##### a. General
 The use of energy-efficient water heating systems in buildings, by observing minimum power performance requirements, will help reduce energy consumption due to heating of water.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall comply with the minimum performance requirements for water heating in the 2010 PSVARE Standards, as shown in Table 9.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings with no water heating systems and buildings with using solar water heating and/or heat pump for water heating are exempt.
 
 <div>
@@ -924,13 +924,13 @@ Buildings with no water heating systems and buildings with using solar water hea
 
 #### 10.5.3 Variable Speed Drives and High Efficiency Motors
 
-##### a. <u>General</u>
+##### a. General
 Variable Speed Drive (VSD) describes the equipment used to control the speed of machinery by changing the frequency of the motor that is being operated. Where process conditions demand adjustment of flow from a pump or fan, varying the speed of the drive may save energy compared with other techniques for flow control.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li>All motors for mechanical equipment over five (5) kW shall be provided with variable speed drive and high efficiency motors in accordance with Table 10.</li>
@@ -938,7 +938,7 @@ This measure applies to all building occupancies as indicated in Table 1.
   <li>All motors for domestic pumps shall have high efficiency motors as indicated in Table 10.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Kitchen ventilation fans are exempt from this requirement. Noncentralized air-conditioning systems in buildings are not required to employ variable speed controllers.
 
 <div>
@@ -1235,29 +1235,29 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
 
 #### 10.5.4 Enthalpy Recovery of Exhaust Air
 
-##### a. <u>General</u>
+##### a. General
 When buildings have outside air or fresh air supply and extract system through mechanical means, using heat exchangers can use the air extracted from the building areas to pre-condition the incoming outdoor air. This process exploits the fact that the extract air is usually already conditioned and therefore colder and drier.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 All buildings with centralized air supply system shall use enthalpy recovery wheels with efficiency of at least sixty percent (60%) of ninety percent (90%) exhaust air.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings without centralized cooling systems are exempt.
 
 ### 10.6 ELECTRICAL SYSTEMS
 
 #### 10.6.1 Daylight Provision
 
-##### a. <u>General</u>
+##### a. General
 Building should be planned and designed to maximize the use of natural light so to reduce the use of artificial illumination.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1. For residential condominiums, it does not apply to individual dwelling units.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 All regularly occupied spaces inside the building shall have a view of any combination of the following features that can allow daylight into the room space:
 
 <ol type="i">
@@ -1269,20 +1269,20 @@ All regularly occupied spaces inside the building shall have a view of any combi
   <li>Other devices that can allow daylight inside</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Spaces where daylight access hinders its intended function are exempt from this provision with justification for exemption.
 
 #### 10.6.2 Daylight Controlled Lighting System
 
-##### a. <u>General</u>
+##### a. General
 Building interior perimeter zones exposed to daylight generally do not require artificial lighting during the day. However, sub-optimal design and operation of the building results in use of artificial lighting when not required.
 
 Photoelectric sensors connected to luminaires help in dimming or switching off lamps that do not require to be operated due to presence of adequate daylight.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as stated in Table 1. For residential condominiums, this applies only to common indoor areas with access to daylight.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall comply with the following:
 
 <ol type="i">
@@ -1290,20 +1290,20 @@ Applicable buildings shall comply with the following:
   <li>If occupancy sensors are installed in the daylight zone, the occupancy sensor shall override the photoelectric sensor during non-occupancy period.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Installed lighting fixtures within the day-lit zones are exempt from using photoelectric sensor if this hinders its intended function, with justification for exemption.
 
 #### 10.6.3 Lighting Power Density (LPD)
 
-##### a. <u>General</u>
+##### a. General
 Limitation of LPD will help to design the lighting system in the most efficient way and reduce the lighting and cooling load in the buildings.<sup>3</sup> The maximum allowed LPD for each space type is specified in Table 11.
 
 <p><sup>3</sup><i>&emsp;The IIEE Manual on the Practice of Efficient Lighting System can be a reference for the design of building lighting systems.</i></p>
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 All applicable building types shall comply with the LPD limits in the 2010 PSVARE Standards, as shown in Table 11.
 
 <div>
@@ -1372,18 +1372,18 @@ All applicable building types shall comply with the LPD limits in the 2010 PSVAR
 <p>Source: ASHRAE - IESNA 90.1</p>
 </div>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 #### 10.6.4 Occupancy Sensors for Lighting Control
 
-##### a. <u>General</u>
+##### a. General
 Occupancy sensors linked to lighting shall be installed in areas with variable occupancy.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1, except for hospitals and malls.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall comply with the following:
 
 <ol type="i">
@@ -1400,18 +1400,18 @@ Applicable buildings shall comply with the following:
   <li>For covered car parks: minimum of sixty percent (60%) of the lighting must be controlled by the occupancy sensors.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Provisions for emergency and security lighting are exempted from this requirement.
 
 #### 10.6.5 Elevators and Escalators / Moving Ramps / Walkways
 
-##### a. <u>General</u>
+##### a. General
 Escalators / Moving Ramp / Walkway must be fitted with controls to automatically reduce speed or stop when no traffic is detected. Elevators must be fitted with mechanisms to reduce energy demand.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall comply with the following:
 
 <ol type="i">
@@ -1433,35 +1433,35 @@ Applicable buildings shall comply with the following:
     </ul>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 #### 10.6.6 Transformers
 
-##### a. <u>General</u>
+##### a. General
 The transformer shall be tested in accordance with relevant Philippine National Standards (PNS) at test conditions of full load, free of harmonics and at unity power factor.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies, with own transformer, as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Transformers that are part of the building electrical system shall have efficiencies not lower than 98% as prescribed in the DOE Guidelines on Energy Conserving Design of Buildings.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 #### 10.6.7 Overhead or Elevated Water Storage
 
-##### a. <u>General</u>
+##### a. General
 To reduce dependence on motorized systems to supply and distribute potable or non-potable water within the building, thus help reduce energy consumption, overhead or elevated water storage systems are used, provided there’s a twenty percent (20%) fire reserve over and above the average daily demand supply. The system relies mostly on elevation and gravity to distribute water within the building.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall include in the water distribution system the integration of overhead or elevated water tanks that will facilitate the distribution of potable and / or non-potable water into the building spaces, without compromising the required water volume and pressure based on demand and the Plumbing Code of the Philippines.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings below ten (10) storeys high are exempt from this provision.
 
 ## Section 11. Water Efficiency
@@ -1469,16 +1469,16 @@ Water efficiency requires the adoption of efficient practices, plan, design, mat
 
 ### 11.1 WATER FIXTURES
 
-##### a. <u>General</u>
+##### a. General
 Efficient water fixtures include faucets, showerheads and water closets that use less water in order to perform the same function of cleaning as effectively as standard models. Water efficiency is an important aspect, especially as fresh water resources start getting depleted at a rate faster than they are replenished. Use of efficient plumbing fixtures, sensors, auto control valves, aerators, flow control and pressure-reducing devices, wherever possible, can result in significant reduction in water consumption.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Applicable buildings shall comply with the requirements as shown in Table 13.
 
-##### d. <u>Exceptions.</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 <div>
@@ -1531,34 +1531,34 @@ There are no exceptions to this provision.
 
 #### 11.2.1 Rainwater Harvesting
 
-##### a. <u>General</u>
+##### a. General
 Rainwater is one of the purest sources of water available. Rainwater from roofs and hardscape must be collected and reused for non-potable purposes.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li>Minimum storage tanks size (in cu.m) shall be calculated by dividing the building footprint area by 75.</li>
   <li>Collected water shall be used for non-potable purposes such as toilet flushing, irrigation and cooling towers.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 #### 11.2.2 Water Recycling
 
-##### a. <u>General</u>
+##### a. General
 Recycled water from Sewage Treatment Plants (STP) shall be reused for non-potable purposes.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 The recycled water produced on site shall be reused for non-potable purposes such as toilet flushing, irrigation and cooling towers, through a distinct and separate piping system from the potable water supply system.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings with no dedicated STP are exempted from this requirement.
 
 ## Section 12. Material Sustainability
@@ -1566,13 +1566,13 @@ Material Sustainability governs all matters related to resource efficiency and m
 
 ### 12.1 NON-TOXIC MATERIALS
 
-##### a. <u>General</u>
+##### a. General
 Non-Toxic building materials refer to building materials without hazardous or toxic chemicals that could cause Sick Building Syndrome (SBS) and eventually lead to Building Related Illness (BRI).
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li>Paints, coatings, adhesives and sealants used indoors or nonventilated areas shall not contain Volatile Organic Compounds (VOC) or should be within levels tolerable to humans as specified in Table 14.</li>
@@ -1581,7 +1581,7 @@ This measure applies to all building occupancies as indicated in Table 1.
   <li>Specifications shall comply with the allowable VOC limits as stated in Table 14 with Material Safety Data Sheet (MSDS) from supplier and other certification to justify the compliance of the material.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 <div>
@@ -1717,13 +1717,13 @@ Efficient waste management requires the adoption of efficient waste management p
 
 ### 13.1 MATERIAL RECOVERY FACILITY (MRF)
 
-##### a. <u>General</u>
+##### a. General
 MRF shall be provided for the collection and segregation of solid waste materials
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li>Buildings shall be provided with a minimum area for MRF as specified in Table 15.</li>
@@ -1738,7 +1738,7 @@ This measure applies to all building occupancies as indicated in Table 1.
   <li>For hospitals, isolated bins for hazardous wastes shall be provided to avoid contamination.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 <div>
@@ -1781,15 +1781,15 @@ Site sustainability requires the adoption of planning, design, construction and 
 
 ### 14.1 SITE / GROUND PREPARATION AND EARTHWORKS
 
-##### a. <u>General</u>
+##### a. General
 Site clearing, grading and excavation shall be planned at the start of construction to mitigate pollution caused by erosion and sedimentation taking into consideration existing endemic foliage as regulated by the DENR.
 
 All existing utilities and water bodies and waterways, shall be protected and shall not be disturbed.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Measures for site protection shall be in place before the start of construction.
 
 <ol type="i">
@@ -1799,21 +1799,21 @@ Measures for site protection shall be in place before the start of construction.
   <li>Structures or facilities for storm water collection</li>
 </ol>
 
-#### d. <u>Exceptions</u>
+#### d. Exceptions
 There are no exceptions to this provision.
 
 ### 14.2 OPEN SPACE UTILIZATION
 
-##### a. <u>General</u>
+##### a. General
 The inclusion of green areas or landscaped areas for indigenous or adaptable species of grass, shrubs and trees will help in providing more permeable surface for the building development’s open space and thus allow the re-charging of natural ground water reservoir, control storm water surface run-off, cool the building surroundings, and provide indoor to outdoor connectivity for the building occupants.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all building occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 A minimum of fifty percent (50%) of the required Unpaved Surface Area (USA), as required in Rule VII and VIII of the NBC, shall be vegetated with indigenous and adaptable species.
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 ## Section 15. Indoor Environmental Quality
@@ -1821,16 +1821,16 @@ Indoor Environmental Quality requires the adoption of efficient design and opera
 
 ### 15.1 MINIMUM FRESH AIR RATES
 
-##### a. <u>General</u>
+##### a. General
 The building indoor environment can contain more contaminants many times over than the outside. Various studies have shown that indoor air contaminants can cause health disorders, through symptoms of SBS and BRI. The introduction and application of minimum fresh air rates will maintain acceptable indoor air quality thru the constant replacement of indoor air in buildings.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all buildings occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 Compliance to the minimum fresh air rates provided in the latest Philippine Society of Ventilating, Air-Conditioning and Refrigerating Engineers (PSVARE) Standards. _See Table 16._
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 There are no exceptions to this provision.
 
 <div>
@@ -1839,13 +1839,13 @@ Insert Table 16.
 
 ### 15.2 DESIGNATED SMOKING AREA
 
-##### a. <u>General</u>
+##### a. General
 Environmental Tobacco Smoke (ETS) is one of the leading causes of respiratory illnesses in building occupants. RA 9211, the Tobacco Regulations Act, restricts tobacco smoking in public spaces and the prescription of designated smoking areas inside buildings.
 
-##### b. <u>Applicability</u>
+##### b. Applicability
 This measure applies to all buildings occupancies as indicated in Table 1.
 
-##### c. <u>Requirements</u>
+##### c. Requirements
 
 <ol type="i">
   <li> If smoking is banned within the building and property premises, “NO SMOKING” signs in compliance with the RA 9514 (Fire Code of the Philippines 2008), shall be posted in conspicuous areas of the building and property premises to remind building occupants of the policy.</li>
@@ -1854,5 +1854,5 @@ This measure applies to all buildings occupancies as indicated in Table 1.
   <li>Doors and windows of enclosed smoking area shall always be closed and well sealed. Negative pressure within is recommended to prevent smoke infiltration to adjacent spaces.</li>
 </ol>
 
-##### d. <u>Exceptions</u>
+##### d. Exceptions
 Buildings with a general policy of “no smoking” within building premises may be exempted from having designated smoking areas.
