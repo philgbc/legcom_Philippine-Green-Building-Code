@@ -1,4 +1,4 @@
-<h1><p style="text-align: center"><b>PHILIPPINE GREEN BUILDING CODE<br>A Referral Code of the<br>NATIONAL BUILDING CODE (P.D. 1096)</b></p></h1>
+<h1><p align="center"><b>PHILIPPINE GREEN BUILDING CODE<br>A Referral Code of the<br>NATIONAL BUILDING CODE (P.D. 1096)</b></p></h1>
 
 # CHAPTER I. GENERAL PROVISIONS
 
