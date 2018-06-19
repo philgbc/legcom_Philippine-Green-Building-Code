@@ -4,12 +4,12 @@
 The GB Code shall be subject to the following performance standards:
 
 <dl>
-  <dd>&emsp;9.1 Energy Efficiency</dd>
-  <dd>&emsp;9.2 Water Efficiency</dd>
-  <dd>&emsp;9.3 Material Sustainability</dd>
-  <dd>&emsp;9.4 Solid Waste Management</dd>
-  <dd>&emsp;9.5 Site Sustainability</dd>
-  <dd>&emsp;9.6 Indoor Environmental Quality</dd>
+  <dd>9.1&emsp;Energy Efficiency</dd>
+  <dd>9.2&emsp;Water Efficiency</dd>
+  <dd>9.3&emsp;Material Sustainability</dd>
+  <dd>9.4&emsp;Solid Waste Management</dd>
+  <dd>9.5&emsp;Site Sustainability</dd>
+  <dd>9.6&emsp;Indoor Environmental Quality</dd>
 </dl>
 
 ## Section 10. Energy Efficiency
@@ -19,7 +19,7 @@ Energy efficiency requires the adoption of efficient practices, designs, methods
 
 #### 10.1.1 Air Tightness and Moisture Protection
 
-##### a. 	<u>General</u>
+##### a. <u>General</u>
 As the humidity levels are very high in the Philippines, the unwanted infiltration and humidity ingress into the spaces can cause additional load on the air conditioning system and a detrimental impact on air quality. Buildings must be planned and designed with specific details to ensure that air tightness is maximized. Details should precisely include joints, service entry points, windows and doors. The implementation of these measures requires only increased attention to the construction details and it can be implemented at practically no cost.
 
 ##### b. <u>Applicability</u>
@@ -38,7 +38,7 @@ Buildings and spaces without provisions for air conditioning systems are exempt.
 
 #### 10.1.2. Glass Properties
 
-##### a. 	<u>General</u>
+##### a. <u>General</u>
 Compared to wall assemblies, glazing transfers more heat and hence, it is ideal to reduce the amount of glazing with respect to the wall in order to reduce internal heat gains.
 
 The requirement of Window to Wall Ratio (WWR) needs to be balanced with the amount of daylight coming through the glazed area.
@@ -59,12 +59,12 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
   <p>For each WWR value, the SHGC and VLT shall be in accordance with Table 2.</p>
 
   <div>
-  <table style="text-align: center">
+  <table align="center">
     <caption><i>Table 2. SHGC and VLT for different WWR</i></caption>
     <tr>
-      <th style="text-align: center">WWR</th>
-      <th style="text-align: center">Maximum SHGC</th>
-      <th style="text-align: center">Minimum VLT</th>
+      <th align="center">WWR</th>
+      <th align="center">Maximum SHGC</th>
+      <th align="center">Minimum VLT</th>
     </tr>
     <tr>
       <td>10</td>
@@ -137,11 +137,11 @@ _Figure 1. Schematic representation of a window and related horizontal overhang 
 * **Insert Figure 1.**
 
 <div>
-<table style="text-align: center">
+<table align="center">
   <caption><i>Table 3. Correction factor for each horizontal overhang shading projection</caption>
   <tr>
-    <th style="text-align: center">Depth-to-Height Ratio</th>
-    <th style="text-align: center">Correction Factor</th>
+    <th align="center">Depth-to-Height Ratio</th>
+    <th align="center">Correction Factor</th>
   </tr>
   <tr>
     <td>0.1</td>
@@ -157,11 +157,11 @@ _Figure 1. Schematic representation of a window and related horizontal overhang 
   </tr>
 </table>
 
-<table style="text-align: center">
+<table align="center">
   <caption><i>Table 4. Correction factor for each vertical fin shading projection</caption>
   <tr>
-    <th style="text-align: center">Depth-to-Width Ratio</th>
-    <th style="text-align: center">Correction Factor</th>
+    <th align="center">Depth-to-Width Ratio</th>
+    <th align="center">Correction Factor</th>
   </tr>
   <tr>
     <td>0.1</td>
@@ -217,60 +217,60 @@ Building metal roof surfaces shall either be colored white or have a minimum SRI
 <table>
   <caption><i>Table 5. SRI Values of basic colored coatings</i></caption>
   <tr>
-    <th style="text-align: center">Metal Surface</th>
-    <th style="text-align: center">Solar Reflectance Index</th>
+    <th align="center">Metal Surface</th>
+    <th align="center">Solar Reflectance Index</th>
   </tr>
   <tr>
     <td>Reflective white</td>
-    <td style="text-align: center">86 to 92</td>
+    <td align="center">86 to 92</td>
   </tr>
   <tr>
     <td>Basic white</td>
-    <td style="text-align: center">80 to 88</td>
+    <td align="center">80 to 88</td>
   </tr>
   <tr>
     <td>Beige / Tan</td>
-    <td style="text-align: center">74 to 80</td>
+    <td align="center">74 to 80</td>
   </tr>
   <tr>
     <td>Dark brown</td>
-    <td style="text-align: center">0 to 33</td>
+    <td align="center">0 to 33</td>
   </tr>
   <tr>
     <td>Light to medium brown</td>
-    <td style="text-align: center">45 to 56</td>
+    <td align="center">45 to 56</td>
   </tr>
   <tr>
     <td>Light to medium grey</td>
-    <td style="text-align: center">39 to 63</td>
+    <td align="center">39 to 63</td>
   </tr>
   <tr>
     <td>Dark grey</td>
-    <td style="text-align: center">0 to 41</td>
+    <td align="center">0 to 41</td>
   </tr>
   <tr>
     <td>Blue</td>
-    <td style="text-align: center">23 to 30</td>
+    <td align="center">23 to 30</td>
   </tr>
   <tr>
     <td>Light to medium blue</td>
-    <td style="text-align: center">35 to 38</td>
+    <td align="center">35 to 38</td>
   </tr>
   <tr>
     <td>Red</td>
-    <td style="text-align: center">28 to 36</td>
+    <td align="center">28 to 36</td>
   </tr>
   <tr>
     <td>Terracotta red</td>
-    <td style="text-align: center">38 to 40</td>
+    <td align="center">38 to 40</td>
   </tr>
   <tr>
     <td>Green</td>
-    <td style="text-align: center">25 to 32</td>
+    <td align="center">25 to 32</td>
   </tr>
   <tr>
     <td>Light to medium green</td>
-    <td style="text-align: center">30 to 48</td>
+    <td align="center">30 to 48</td>
   </tr>
 </table>
 <p>Source: PPG Cool Color Series &ndash; www.coolcolorsdatabase.ppg.com as rated by the Cool Roof Rating Council, US</p>
@@ -296,96 +296,96 @@ _For Insulating Values of Common Building Materials see Annex 3_
 <table>
   <caption><i>Table 6. R-Value of Common Roof Insulation</i></caption>
   <tr>
-    <th style="text-align: center">Insulation</th>
-    <th style="text-align: center">R-Value / inch (25.4 mm)</th>
+    <th align="center">Insulation</th>
+    <th align="center">R-Value / inch (25.4 mm)</th>
   </tr>
   <tr>
     <td>Polyisocyanurate</td>
-    <td style="text-align: center">5.6 to 8.0</td>
+    <td align="center">5.6 to 8.0</td>
   </tr>
   <tr>
     <td>Polyurethane</td>
-    <td style="text-align: center">5.6 to 6.5</td>
+    <td align="center">5.6 to 6.5</td>
   </tr>
   <tr>
     <td>Closed cell spray foam</td>
-    <td style="text-align: center">5.5 to 6.0</td>
+    <td align="center">5.5 to 6.0</td>
   </tr>
   <tr>
     <td>Phenolic foam</td>
-    <td style="text-align: center">4.8</td>
+    <td align="center">4.8</td>
   </tr>
   <tr>
     <td>Urea formaldehyde foam</td>
-    <td style="text-align: center">4.6</td>
+    <td align="center">4.6</td>
   </tr>
   <tr>
     <td>Plastic fiber</td>
-    <td style="text-align: center">4.3</td>
+    <td align="center">4.3</td>
   </tr>
   <tr>
     <td>Mineral fiber</td>
-    <td style="text-align: center">4.2 to 4.5</td>
+    <td align="center">4.2 to 4.5</td>
   </tr>
   <tr>
     <td>Cementitious foam</td>
-    <td style="text-align: center">3.9</td>
+    <td align="center">3.9</td>
   </tr>
   <tr>
     <td>Polystyrene</td>
-    <td style="text-align: center">3.8 to 5.0</td>
+    <td align="center">3.8 to 5.0</td>
   </tr>
   <tr>
     <td>Fiberglass</td>
-    <td style="text-align: center">3.7</td>
+    <td align="center">3.7</td>
   </tr>
   <tr>
     <td>Rockwool</td>
-    <td style="text-align: center">3.7</td>
+    <td align="center">3.7</td>
   </tr>
   <tr>
     <td>Rigid foam</td>
-    <td style="text-align: center">3.6 to 6.7</td>
+    <td align="center">3.6 to 6.7</td>
   </tr>
   <tr>
     <td>Cellulose</td>
-    <td style="text-align: center">3.6 to 3.8</td>
+    <td align="center">3.6 to 3.8</td>
   </tr>
   <tr>
     <td>Open cell spray foam</td>
-    <td style="text-align: center">3.6</td>
+    <td align="center">3.6</td>
   </tr>
   <tr>
     <td>Sheep's wool</td>
-    <td style="text-align: center">3.5</td>
+    <td align="center">3.5</td>
   </tr>
   <tr>
     <td>Hemp</td>
-    <td style="text-align: center">3.5</td>
+    <td align="center">3.5</td>
   </tr>
   <tr>
     <td>Cotton</td>
-    <td style="text-align: center">3.4</td>
+    <td align="center">3.4</td>
   </tr>
   <tr>
     <td>Loose cellulose</td>
-    <td style="text-align: center">3.0 to 3.7</td>
+    <td align="center">3.0 to 3.7</td>
   </tr>
   <tr>
     <td>Mineral wool</td>
-    <td style="text-align: center">2.8 to 3.7</td>
+    <td align="center">2.8 to 3.7</td>
   </tr>
   <tr>
     <td>Straw</td>
-    <td style="text-align: center">2.4 to 3.0</td>
+    <td align="center">2.4 to 3.0</td>
   </tr>
   <tr>
     <td>Vermiculite / Perlite</td>
-    <td style="text-align: center">2.4</td>
+    <td align="center">2.4</td>
   </tr>
   <tr>
     <td>Reflective bubble foil</td>
-    <td style="text-align: center">1 to 1.1</td>
+    <td align="center">1 to 1.1</td>
   </tr>
 </table>
 <p>Source: U.S. Department of Energy &ndash; Insulation Materials
@@ -411,158 +411,158 @@ The cooling equipment shall meet or exceed the minimum efficiency requirements a
 <table>
   <caption><i>Table 7. Electrically Operated Unitary Air Conditioners and Condensing Units</i></caption>
   <tr>
-    <th rowspan="2" style="text-align: center">Equipment Type</th>
-    <th colspan="2" style="text-align: center">Size Category</th>
-    <th rowspan="2" style="text-align: center">Sub-category or<br>Rating Conditions</th>
-    <th rowspan="2" style="text-align: center">Minimum<br>Efficiency</th>
-    <th rowspan="2" style="text-align: center">Test Procedure</th>
+    <th rowspan="2" align="center">Equipment Type</th>
+    <th colspan="2" align="center">Size Category</th>
+    <th rowspan="2" align="center">Sub-category or<br>Rating Conditions</th>
+    <th rowspan="2" align="center">Minimum<br>Efficiency</th>
+    <th rowspan="2" align="center">Test Procedure</th>
   </tr>
   <tr>
-    <th style="text-align: center">(BTU/h)</th>
-    <th style="text-align: center">(kJ/h)</th>
+    <th align="center">(BTU/h)</th>
+    <th align="center">(kJ/h)</th>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 65,000</td>
-    <td style="text-align: center">&lt; 68,585</td>
+    <td align="center">&lt; 65,000</td>
+    <td align="center">&lt; 68,585</td>
     <td>Split Systems</td>
-    <td style="text-align: center">14.0 SEER<br>12.0 EER</td>
+    <td align="center">14.0 SEER<br>12.0 EER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 65,000</td>
-    <td style="text-align: center">&lt; 68,585</td>
+    <td align="center">&lt; 65,000</td>
+    <td align="center">&lt; 68,585</td>
     <td>Single Packaged</td>
-    <td style="text-align: center">14.0 SEER<br>11.6 EER</td>
+    <td align="center">14.0 SEER<br>11.6 EER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Through-the-wall,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 30,000</td>
-    <td style="text-align: center">&lt; 31,655</td>
+    <td align="center">&lt; 30,000</td>
+    <td align="center">&lt; 31,655</td>
     <td>Split Systems</td>
-    <td style="text-align: center">12.0 SEER</td>
+    <td align="center">12.0 SEER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Through-the-wall,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 30,000</td>
-    <td style="text-align: center">&lt; 31,655</td>
+    <td align="center">&lt; 30,000</td>
+    <td align="center">&lt; 31,655</td>
     <td>Single Packaged</td>
-    <td style="text-align: center">12.0 SEER</td>
+    <td align="center">12.0 SEER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Small-duct High Velocity,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 65,000</td>
-    <td style="text-align: center">&lt; 68,585</td>
+    <td align="center">&lt; 65,000</td>
+    <td align="center">&lt; 68,585</td>
     <td>Split Systems</td>
-    <td style="text-align: center">10.0 SEER</td>
+    <td align="center">10.0 SEER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&ge; 65,000 &</td>
-    <td style="text-align: center">&ge; 68,585 &</td>
+    <td align="center">&ge; 65,000 &</td>
+    <td align="center">&ge; 68,585 &</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">11.5 EER</td>
+    <td align="center">11.5 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 135,000</td>
-    <td style="text-align: center">&lt; 142,447</td>
+    <td align="center">&lt; 135,000</td>
+    <td align="center">&lt; 142,447</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">11.3 EER</td>
+    <td align="center">11.3 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&ge; 135,000 &</td>
-    <td style="text-align: center">&ge; 142,447 &</td>
+    <td align="center">&ge; 135,000 &</td>
+    <td align="center">&ge; 142,447 &</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">11.5 EER</td>
+    <td align="center">11.5 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 240,000</td>
-    <td style="text-align: center">&lt; 253,238</td>
+    <td align="center">&lt; 240,000</td>
+    <td align="center">&lt; 253,238</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">11.3 EER</td>
+    <td align="center">11.3 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&ge; 240,000 &</td>
-    <td style="text-align: center">&ge; 253,238 &</td>
+    <td align="center">&ge; 240,000 &</td>
+    <td align="center">&ge; 253,238 &</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">10.0 EER</td>
+    <td align="center">10.0 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&lt; 760,000</td>
-    <td style="text-align: center">&lt; 801,922</td>
+    <td align="center">&lt; 760,000</td>
+    <td align="center">&lt; 801,922</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">9.8 EER</td>
+    <td align="center">9.8 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners,<br>Air-cooled</td>
-    <td style="text-align: center">&ge; 760,000</td>
-    <td style="text-align: center">&ge; 801,922</td>
+    <td align="center">&ge; 760,000</td>
+    <td align="center">&ge; 801,922</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">9.7 EER<br>9.5 EER</td>
+    <td align="center">9.7 EER<br>9.5 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&lt; 65,000</td>
-    <td style="text-align: center">&lt; 68,585</td>
+    <td align="center">&lt; 65,000</td>
+    <td align="center">&lt; 68,585</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">14.0 EER</td>
+    <td align="center">14.0 EER</td>
     <td>AHRI 210/240<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&ge; 65,000 &</td>
-    <td style="text-align: center">&ge; 68,585 &</td>
+    <td align="center">&ge; 65,000 &</td>
+    <td align="center">&ge; 68,585 &</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">14.0 EER</td>
+    <td align="center">14.0 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&lt; 135,000</td>
-    <td style="text-align: center">&lt; 142,447</td>
+    <td align="center">&lt; 135,000</td>
+    <td align="center">&lt; 142,447</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">13.8 EER</td>
+    <td align="center">13.8 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&ge; 135,000</td>
-    <td style="text-align: center">&ge; 142,447</td>
+    <td align="center">&ge; 135,000</td>
+    <td align="center">&ge; 142,447</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">14.0 EER</td>
+    <td align="center">14.0 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&lt; 240,000</td>
-    <td style="text-align: center">&lt; 253,238</td>
+    <td align="center">&lt; 240,000</td>
+    <td align="center">&lt; 253,238</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">13.8 EER</td>
+    <td align="center">13.8 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
   <tr>
     <td>Air Conditioners, Water-<br>& Evaporative-cooled</td>
-    <td style="text-align: center">&ge; 240,000</td>
-    <td style="text-align: center">&ge; 253,238</td>
+    <td align="center">&ge; 240,000</td>
+    <td align="center">&ge; 253,238</td>
     <td>Split Systems &<br>Single Package</td>
-    <td style="text-align: center">14.0 EER<br>13.8 EER</td>
+    <td align="center">14.0 EER<br>13.8 EER</td>
     <td>AHRI 340/360<br>PNS ISO 5151:2014<br>PNS ISO 16358-1</td>
   </tr>
 </table>
@@ -571,123 +571,123 @@ The cooling equipment shall meet or exceed the minimum efficiency requirements a
 <table>
   <caption><i>Table 8. Water Chiller Packages &ndash; Minimum Efficiency Requirements</i></caption>
   <tr>
-    <th style="text-align: center">Equipment Type</th>
-    <th style="text-align: center">Size Category</th>
-    <th style="text-align: center">Units</th>
-    <th style="text-align: center">Minimum Efficiency<br>(Full Load)</th>
-    <th style="text-align: center">Test Procedure</th>
+    <th align="center">Equipment Type</th>
+    <th align="center">Size Category</th>
+    <th align="center">Units</th>
+    <th align="center">Minimum Efficiency<br>(Full Load)</th>
+    <th align="center">Test Procedure</th>
   </tr>
   <tr>
     <td>Air-cooled chillers with condenser,<br>Electrically operated</td>
-    <td style="text-align: center">&lt; 150 tons</td>
-    <td style="text-align: center">EER</td>
-    <td style="text-align: center">10</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&lt; 150 tons</td>
+    <td align="center">EER</td>
+    <td align="center">10</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Air-cooled chillers with condenser,<br>Electrically operated</td>
-    <td style="text-align: center">&ge; 150 tons</td>
-    <td style="text-align: center">EER</td>
-    <td style="text-align: center">10</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 150 tons</td>
+    <td align="center">EER</td>
+    <td align="center">10</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Air-cooled chillers without condenser,<br>Electrically operated</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">EER</td>
+    <td align="center">All capacities</td>
+    <td align="center">EER</td>
     <td>Condenserless units<br>shall be rated with<br>matched condensers</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Positive displacement<br>(Reciprocating)</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">kW/ton</td>
+    <td align="center">All capacities</td>
+    <td align="center">kW/ton</td>
     <td>Reciprocating units<br>required to comply<br>with water-cooled<br>positive displacement<br>requirements</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Positive displacement</td>
-    <td style="text-align: center">&lt; 75 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.78</td>
-    <td style="text-align: center">ARI 550/590</td>
+    <td align="center">&lt; 75 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.78</td>
+    <td align="center">ARI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled Chillers,<br>Electrically operated,<br>Positive displacement</td>
-    <td style="text-align: center">&ge; 75 tons &<br>&lt; 150 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.775</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 75 tons &<br>&lt; 150 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.775</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled Chillers,<br>Electrically operated,<br>Positive displacement</td>
-    <td style="text-align: center">&ge; 150 tons &<br>&lt; 300 tons</td>
+    <td align="center">&ge; 150 tons &<br>&lt; 300 tons</td>
     <td style="text-ali/gn: center">kW/ton</td>
-    <td style="text-align: center">0.68</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">0.68</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled Chillers,<br>Electrically operated,<br>Positive displacement</td>
-    <td style="text-align: center">&ge; 300 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.62</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 300 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.62</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Centrifugal</td>
-    <td style="text-align: center">&lt; 150 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.634</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&lt; 150 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.634</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Centrifugal</td>
-    <td style="text-align: center">&ge; 150 tons &<br>&lt; 300 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.634</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 150 tons &<br>&lt; 300 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.634</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Centrifugal</td>
-    <td style="text-align: center">&ge; 300 tons &<br>&lt; 600 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.576</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 300 tons &<br>&lt; 600 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.576</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Water-cooled chillers,<br>Electrically operated,<br>Centrifugal</td>
-    <td style="text-align: center">&ge; 600 tons</td>
-    <td style="text-align: center">kW/ton</td>
-    <td style="text-align: center">0.57</td>
-    <td style="text-align: center">AHRI 550/590</td>
+    <td align="center">&ge; 600 tons</td>
+    <td align="center">kW/ton</td>
+    <td align="center">0.57</td>
+    <td align="center">AHRI 550/590</td>
   </tr>
   <tr>
     <td>Air-cooled absorption,<br>Single effect</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">COP</td>
-    <td style="text-align: center">0.6</td>
-    <td style="text-align: center">AHRI 560</td>
+    <td align="center">All capacities</td>
+    <td align="center">COP</td>
+    <td align="center">0.6</td>
+    <td align="center">AHRI 560</td>
   </tr>
   <tr>
     <td>Water-cooled absorption,<br>Single effect</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">COP</td>
-    <td style="text-align: center">0.6</td>
-    <td style="text-align: center">AHRI 560</td>
+    <td align="center">All capacities</td>
+    <td align="center">COP</td>
+    <td align="center">0.6</td>
+    <td align="center">AHRI 560</td>
   </tr>
   <tr>
     <td>Absorption, Double effect,<br>Indirect-fired</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">COP</td>
-    <td style="text-align: center">1</td>
-    <td style="text-align: center">AHRI 560</td>
+    <td align="center">All capacities</td>
+    <td align="center">COP</td>
+    <td align="center">1</td>
+    <td align="center">AHRI 560</td>
   </tr>
   <tr>
     <td>Absorption, Double effect,<br>Direct-fired</td>
-    <td style="text-align: center">All capacities</td>
-    <td style="text-align: center">COP</td>
-    <td style="text-align: center">1</td>
-    <td style="text-align: center">AHRI 560</td>
+    <td align="center">All capacities</td>
+    <td align="center">COP</td>
+    <td align="center">1</td>
+    <td align="center">AHRI 560</td>
   </tr>
 </table>
 <p>Source: 2010 PSVARE Standards</p>
@@ -714,208 +714,208 @@ Buildings with no water heating systems and buildings with using solar water hea
 <table>
   <caption><i>Table 9. Minimum Performance Requirements for Water Heating Equipment</i></caption>
   <tr>
-    <th rowspan="2" style="text-align: center">Equipment Type</th>
-    <th colspan="2" style="text-align: center">Size Category<br>(Input)</th>
-    <th colspan="2" style="text-align: center">Sub-category or<br>Rating Conditions</th>
-    <th colspan="2" style="text-align: center">Performance<br>Required</th>
-    <th rowspan="2" style="text-align: center">Test Procedure</th>
+    <th rowspan="2" align="center">Equipment Type</th>
+    <th colspan="2" align="center">Size Category<br>(Input)</th>
+    <th colspan="2" align="center">Sub-category or<br>Rating Conditions</th>
+    <th colspan="2" align="center">Performance<br>Required</th>
+    <th rowspan="2" align="center">Test Procedure</th>
   </tr>
   <tr>
-    <th style="text-align: center">I-P</th>
-    <th style="text-align: center">SI</th>
-    <th style="text-align: center">I-P</th>
-    <th style="text-align: center">SI</th>
-    <th style="text-align: center">I-P</th>
-    <th style="text-align: center">SI</th>
+    <th align="center">I-P</th>
+    <th align="center">SI</th>
+    <th align="center">I-P</th>
+    <th align="center">SI</th>
+    <th align="center">I-P</th>
+    <th align="center">SI</th>
   </tr>
   <tr>
     <td>Electric<br>water heaters</td>
-    <td style="text-align: center">12 kW</td>
-    <td style="text-align: center">12 kW</td>
-    <td style="text-align: center">Res &ge; 20 gal</td>
-    <td style="text-align: center">Res &ge; 76 L</td>
-    <td style="text-align: center">EF &ge; 0.97 -<br>0.00132V</td>
-    <td style="text-align: center">EF &ge; 0.97 -<br>0.00132V</td>
+    <td align="center">12 kW</td>
+    <td align="center">12 kW</td>
+    <td align="center">Res &ge; 20 gal</td>
+    <td align="center">Res &ge; 76 L</td>
+    <td align="center">EF &ge; 0.97 -<br>0.00132V</td>
+    <td align="center">EF &ge; 0.97 -<br>0.00132V</td>
     <td>DOE 10 CFR<br>Part 430</td>
   </tr>
   <tr>
     <td>Electric<br>water heaters</td>
-    <td style="text-align: center">&gt; 12 kW</td>
-    <td style="text-align: center">&gt; 12 kW</td>
-    <td style="text-align: center">Res &ge; 20 gal</td>
-    <td style="text-align: center">Res &ge; 76 L</td>
-    <td style="text-align: center">SL &le; 20 +<br>35 &radic;V, BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center">&gt; 12 kW</td>
+    <td align="center">&gt; 12 kW</td>
+    <td align="center">Res &ge; 20 gal</td>
+    <td align="center">Res &ge; 76 L</td>
+    <td align="center">SL &le; 20 +<br>35 &radic;V, BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Electric<br>water heaters</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center">Heat Pump</td>
-    <td style="text-align: center">Heat Pump</td>
-    <td style="text-align: center">EF &ge; 2.0</td>
-    <td style="text-align: center">EF &ge; 2.0</td>
+    <td align="center">All sizes</td>
+    <td align="center">All sizes</td>
+    <td align="center">Heat Pump</td>
+    <td align="center">Heat Pump</td>
+    <td align="center">EF &ge; 2.0</td>
+    <td align="center">EF &ge; 2.0</td>
     <td>DOE 10 CFR<br>Part 430</td>
   </tr>
   <tr>
     <td>Gas storage<br>water heaters</td>
-    <td style="text-align: center">&le; 75,000 BTU/h</td>
-    <td style="text-align: center">&le; 22 kW</td>
-    <td style="text-align: center">&ge; 20 gal</td>
-    <td style="text-align: center">&ge; 76 L</td>
-    <td style="text-align: center">EF &ge; 0.67</td>
-    <td style="text-align: center">EF &ge; 0.67</td>
+    <td align="center">&le; 75,000 BTU/h</td>
+    <td align="center">&le; 22 kW</td>
+    <td align="center">&ge; 20 gal</td>
+    <td align="center">&ge; 76 L</td>
+    <td align="center">EF &ge; 0.67</td>
+    <td align="center">EF &ge; 0.67</td>
     <td>DOE 10 CFR<br>Part 430</td>
   </tr>
   <tr>
     <td>Gas storage<br>water heaters</td>
-    <td style="text-align: center">&gt; 75,000 BTU/h</td>
-    <td style="text-align: center">&gt; 22 kW</td>
-    <td style="text-align: center">&lt; 4,000 (BTU/h)/gal</td>
-    <td style="text-align: center">&lt; 0.31 kW/L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center">&gt; 75,000 BTU/h</td>
+    <td align="center">&gt; 22 kW</td>
+    <td align="center">&lt; 4,000 (BTU/h)/gal</td>
+    <td align="center">&lt; 0.31 kW/L</td>
+    <td align="center">E<sub>t</sub> &ge; 80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Gas instantaneous<br>water heaters</td>
-    <td style="text-align: center">&gt; 50,000 BTU/h and<br>&lt; 200,000 BTU/h</td>
-    <td style="text-align: center">&gt; 15 kW and<br>&lt; 58 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 2 gal</td>
-    <td style="text-align: center">&ge; 0.31  kW/L<br>and &lt; 7.57 L</td>
-    <td style="text-align: center">EF &ge; 0.82</td>
-    <td style="text-align: center">EF &ge; 0.82</td>
+    <td align="center">&gt; 50,000 BTU/h and<br>&lt; 200,000 BTU/h</td>
+    <td align="center">&gt; 15 kW and<br>&lt; 58 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 2 gal</td>
+    <td align="center">&ge; 0.31  kW/L<br>and &lt; 7.57 L</td>
+    <td align="center">EF &ge; 0.82</td>
+    <td align="center">EF &ge; 0.82</td>
     <td>DOE CFR<br>Part 430</td>
   </tr>
   <tr>
     <td>Gas instantaneous<br>water heaters</td>
-    <td style="text-align: center">&le; 200,000 BTU/h</td>
-    <td style="text-align: center">&le; 58 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">&le; 200,000 BTU/h</td>
+    <td align="center">&le; 58 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Gas instantaneous<br>water heaters</td>
-    <td style="text-align: center">&ge; 200,000 BTU/h</td>
-    <td style="text-align: center">&ge; 58 kW</td>
-    <td style="text-align: center">4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
-    <td style="text-align: center">0.31 kW/L<br>and &ge; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center">&ge; 200,000 BTU/h</td>
+    <td align="center">&ge; 58 kW</td>
+    <td align="center">4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
+    <td align="center">0.31 kW/L<br>and &ge; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge; 80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Oil storage<br>water heaters</td>
-    <td style="text-align: center">&le; 105,000 BTU/h</td>
-    <td style="text-align: center">&le; 31 kW</td>
-    <td style="text-align: center">&ge; 20 gal</td>
-    <td style="text-align: center">&ge; 76 L</td>
-    <td style="text-align: center">EF &ge; 0.59 -<br>0.0019V</td>
-    <td style="text-align: center">EF &ge; 0.59 -<br>0.0019V</td>
+    <td align="center">&le; 105,000 BTU/h</td>
+    <td align="center">&le; 31 kW</td>
+    <td align="center">&ge; 20 gal</td>
+    <td align="center">&ge; 76 L</td>
+    <td align="center">EF &ge; 0.59 -<br>0.0019V</td>
+    <td align="center">EF &ge; 0.59 -<br>0.0019V</td>
     <td>DOE 10 CFR<br>Part 430</td>
   </tr>
   <tr>
     <td>Oil storage<br>water heaters</td>
-    <td style="text-align: center">&gt; 105,000 BTU/h</td>
-    <td style="text-align: center">&gt; 31 kW</td>
-    <td style="text-align: center">&lt; 4,000 (BTU/h)/gal</td>
-    <td style="text-align: center">&lt; 0.31 kW/L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center">&gt; 105,000 BTU/h</td>
+    <td align="center">&gt; 31 kW</td>
+    <td align="center">&lt; 4,000 (BTU/h)/gal</td>
+    <td align="center">&lt; 0.31 kW/L</td>
+    <td align="center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Oil instantaneous<br>water heaters</td>
-    <td style="text-align: center">&le; 210,000 BTU/h</td>
-    <td style="text-align: center">&le; 62 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 2 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &lt; 7.87 L</td>
-    <td style="text-align: center">EF &ge; 0.59 -<br>0.0019V</td>
-    <td style="text-align: center">EF &ge; 0.59 -<br>0.0019V</td>
+    <td align="center">&le; 210,000 BTU/h</td>
+    <td align="center">&le; 62 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 2 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &lt; 7.87 L</td>
+    <td align="center">EF &ge; 0.59 -<br>0.0019V</td>
+    <td align="center">EF &ge; 0.59 -<br>0.0019V</td>
     <td>DOE 10 CFR<br>Part 43</td>
   </tr>
   <tr>
     <td>Oil instantaneous<br>water heaters</td>
-    <td style="text-align: center">&gt; 210,000 BTU/h</td>
-    <td style="text-align: center">&gt; 62 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">&gt; 210,000 BTU/h</td>
+    <td align="center">&gt; 62 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Oil instantaneous<br>water heaters</td>
-    <td style="text-align: center">&gt; 210,000 BTU/h</td>
-    <td style="text-align: center">&gt; 62 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center">&gt; 210,000 BTU/h</td>
+    <td align="center">&gt; 62 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Hot-water supply boilers,<br>Gas and oil</td>
-    <td style="text-align: center">300,000 BTU/h and<br>&lt; 12,500,000 BTU/h</td>
-    <td style="text-align: center">88 kW and<br>&lt; 3,664 kW</td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">300,000 BTU/h and<br>&lt; 12,500,000 BTU/h</td>
+    <td align="center">88 kW and<br>&lt; 3,664 kW</td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &lt; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &lt; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
+    <td align="center">E<sub>t</sub> &ge; 80%</td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Hot-water supply boilers,<br>Gas</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge;80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge;80% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Hot-water supply boilers,<br>Oil</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
-    <td style="text-align: center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
-    <td style="text-align: center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
-    <td style="text-align: center"></td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">&ge; 4,000 (BTU/h)/gal<br>and &ge; 10 gal</td>
+    <td align="center">&ge; 0.31 kW/L<br>and &ge; 37.85 L</td>
+    <td align="center">E<sub>t</sub> &ge;78% and<br>SL &le; (Q/800 +<br>110 &radic;V), BTU/h</td>
+    <td align="center"></td>
     <td>ANSI Z21.10.3</td>
   </tr>
   <tr>
     <td>Pool heaters,<br>Oil and gas</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center">E<sub>t</sub> &ge; 78%</td>
-    <td style="text-align: center">E<sub>y</sub> &ge; 78%</td>
+    <td align="center">All sizes</td>
+    <td align="center">All sizes</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">E<sub>t</sub> &ge; 78%</td>
+    <td align="center">E<sub>y</sub> &ge; 78%</td>
     <td>ASHRAE 146</td>
   </tr>
   <tr>
     <td>Heat pump<br>pool heaters</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center">&ge; 4.0 COP</td>
-    <td style="text-align: center">&ge; 4.0 COP</td>
+    <td align="center">All sizes</td>
+    <td align="center">All sizes</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">&ge; 4.0 COP</td>
+    <td align="center">&ge; 4.0 COP</td>
     <td>ASHRAE 146</td>
   </tr>
   <tr>
     <td>Unfired storage tanks</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center">All sizes</td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center"></td>
-    <td style="text-align: center">&ge; R-12.5</td>
-    <td style="text-align: center">&ge; R-12.5</td>
+    <td align="center">All sizes</td>
+    <td align="center">All sizes</td>
+    <td align="center"></td>
+    <td align="center"></td>
+    <td align="center">&ge; R-12.5</td>
+    <td align="center">&ge; R-12.5</td>
     <td>(none)</td>
   </tr>
 </table>
@@ -946,40 +946,40 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
   <caption><i>Table 10. Motor Efficiencies</i></caption>
   <tr>
     <th rowspan="2" colspan="2"></th>
-    <th colspan="6" style="text-align: center">Minimum Nominal Full-Load Efficiency (%)</th>
+    <th colspan="6" align="center">Minimum Nominal Full-Load Efficiency (%)</th>
   </tr>
   <tr>
-    <th colspan="3" style="text-align: center">Open Motors</th>
-    <th colspan="3" style="text-align: center">Enclosed Motors</th>
+    <th colspan="3" align="center">Open Motors</th>
+    <th colspan="3" align="center">Enclosed Motors</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center">Number of Poles ==></th>
-    <th style="text-align: center">2</th>
-    <th style="text-align: center">4</th>
-    <th style="text-align: center">6</th>
-    <th style="text-align: center">2</th>
-    <th style="text-align: center">4</th>
-    <th style="text-align: center">6</th>
+    <th colspan="2" align="center">Number of Poles ==></th>
+    <th align="center">2</th>
+    <th align="center">4</th>
+    <th align="center">6</th>
+    <th align="center">2</th>
+    <th align="center">4</th>
+    <th align="center">6</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center">Synchronous Speed (RPM) ==></th>
-    <th style="text-align: center">3600</th>
-    <th style="text-align: center">1800</th>
-    <th style="text-align: center">1200</th>
-    <th style="text-align: center">3600</th>
-    <th style="text-align: center">1800</th>
-    <th style="text-align: center">1200</th>
+    <th colspan="2" align="center">Synchronous Speed (RPM) ==></th>
+    <th align="center">3600</th>
+    <th align="center">1800</th>
+    <th align="center">1200</th>
+    <th align="center">3600</th>
+    <th align="center">1800</th>
+    <th align="center">1200</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align: center">Motor Horsepower</th>
+    <th colspan="2" align="center">Motor Horsepower</th>
     <th colspan="6"></th>
   </tr>
   <tr>
-    <th style="text-align: center">(HP)</th>
-    <th style="text-align: center">(kW)</th>
+    <th align="center">(HP)</th>
+    <th align="center">(kW)</th>
     <th colspan="6"></th>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>1</td>
     <td>0.75</td>
     <td>77.0</td>
@@ -989,7 +989,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>85.5</td>
     <td>82.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>1.5</td>
     <td>1.10</td>
     <td>84.0</td>
@@ -999,7 +999,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>86.5</td>
     <td>87.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>2</td>
     <td>1.50</td>
     <td>85.5</td>
@@ -1009,7 +1009,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>86.5</td>
     <td>88.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>3</td>
     <td>2.20</td>
     <td>85.5</td>
@@ -1019,7 +1019,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>89.5</td>
     <td>89.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>5</td>
     <td>4.00</td>
     <td>86.5</td>
@@ -1029,7 +1029,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>89.5</td>
     <td>89.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>7.5</td>
     <td>5.50</td>
     <td>88.5</td>
@@ -1039,7 +1039,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>91.7</td>
     <td>91.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>10</td>
     <td>7.50</td>
     <td>89.5</td>
@@ -1049,7 +1049,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>91.7</td>
     <td>91.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>15</td>
     <td>11.0</td>
     <td>90.2</td>
@@ -1059,7 +1059,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>92.4</td>
     <td>91.7</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>20</td>
     <td>15.0</td>
     <td>91.0</td>
@@ -1069,7 +1069,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>93.0</td>
     <td>91.7</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>25</td>
     <td>18.5</td>
     <td>91.7</td>
@@ -1079,7 +1079,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>93.6</td>
     <td>93.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>30</td>
     <td>22.0</td>
     <td>91.7</td>
@@ -1089,7 +1089,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>93.6</td>
     <td>93.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>40</td>
     <td>30.0</td>
     <td>92.4</td>
@@ -1099,7 +1099,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>94.1</td>
     <td>94.1</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>50</td>
     <td>37.0</td>
     <td>93.0</td>
@@ -1109,7 +1109,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>94.5</td>
     <td>94.1</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>60</td>
     <td>45.0</td>
     <td>93.6</td>
@@ -1119,7 +1119,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>95.0</td>
     <td>94.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>75</td>
     <td>55.0</td>
     <td>93.6</td>
@@ -1129,7 +1129,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>95.4</td>
     <td>94.5</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>100</td>
     <td>75.0</td>
     <td>93.6</td>
@@ -1139,7 +1139,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>95.4</td>
     <td>95.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>125</td>
     <td>90.0</td>
     <td>94.1</td>
@@ -1149,7 +1149,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>95.4</td>
     <td>95.0</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>150</td>
     <td>110.0</td>
     <td>94.1</td>
@@ -1159,7 +1159,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>95.8</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>200</td>
     <td>150.0</td>
     <td>95.0</td>
@@ -1169,7 +1169,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>250</td>
     <td>185.0</td>
     <td>95.0</td>
@@ -1179,7 +1179,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>300</td>
     <td>225.0</td>
     <td>95.4</td>
@@ -1189,7 +1189,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>350</td>
     <td>260.0</td>
     <td>95.4</td>
@@ -1199,7 +1199,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>400</td>
     <td>300.0</td>
     <td>95.8</td>
@@ -1209,7 +1209,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>450</td>
     <td>335.0</td>
     <td>95.8</td>
@@ -1219,7 +1219,7 @@ Kitchen ventilation fans are exempt from this requirement. Noncentralized air-co
     <td>96.2</td>
     <td>95.8</td>
   </tr>
-  <tr style="text-align: center">
+  <tr align="center">
     <td>500</td>
     <td>375.0</td>
     <td>95.8</td>
@@ -1310,32 +1310,32 @@ All applicable building types shall comply with the LPD limits in the 2010 PSVAR
 <table>
   <caption><i>Table 11. Maximum Allowed LPD <sup>4</sup></i></caption>
   <tr>
-    <th style="text-align: center">USE / OCCUPANCY CLASSIFICATION</th>
-    <th style="text-align: center">Building Average LPD<br>(W/m<sup>2</sup>)</th>
+    <th align="center">USE / OCCUPANCY CLASSIFICATION</th>
+    <th align="center">Building Average LPD<br>(W/m<sup>2</sup>)</th>
   </tr>
   <tr>
     <td>Residential Dwelling: Condominium</td>
-    <td style="text-align: center">10.8</td>
+    <td align="center">10.8</td>
   </tr>
   <tr>
     <td>Hotel or Resort</td>
-    <td style="text-align: center">10.8</td>
+    <td align="center">10.8</td>
   </tr>
   <tr>
     <td>Educational: School</td>
-    <td style="text-align: center">12.9</td>
+    <td align="center">12.9</td>
   </tr>
   <tr>
     <td>Institutional: Hospital</td>
-    <td style="text-align: center">12.9</td>
+    <td align="center">12.9</td>
   </tr>
   <tr>
     <td>Business: Office</td>
-    <td style="text-align: center">10.8</td>
+    <td align="center">10.8</td>
   </tr>
   <tr>
     <td>Mercantile: Mall</td>
-    <td style="text-align: center">16.1 (excluding accent lighting)</td>
+    <td align="center">16.1 (excluding accent lighting)</td>
   </tr>
 </table>
 <p>Source: 2010 PSVARE Standards</p>
@@ -1345,28 +1345,28 @@ All applicable building types shall comply with the LPD limits in the 2010 PSVAR
 <table>
   <caption><i>Table 12. Maximum Allowed LPD</i></caption>
   <tr>
-    <th style="text-align: center">Other Uses</th>
-    <th style="text-align: center">Average LPD (W/m<sup>2</sup>)</th>
+    <th align="center">Other Uses</th>
+    <th align="center">Average LPD (W/m<sup>2</sup>)</th>
   </tr>
   <tr>
     <td>Covered parking</td>
-    <td style="text-align: center">3.2</td>
+    <td align="center">3.2</td>
   </tr>
   <tr>
     <td>Open and outdoor parking</td>
-    <td style="text-align: center">1.6</td>
+    <td align="center">1.6</td>
   </tr>
   <tr>
     <td>Exterior façade</td>
-    <td style="text-align: center">2.15</td>
+    <td align="center">2.15</td>
   </tr>
   <tr>
     <td>Active entrance (pedestrian conveyance)</td>
-    <td style="text-align: center">98.4</td>
+    <td align="center">98.4</td>
   </tr>
   <tr>
     <td>Inactive entrance (normally locked / inactive use)</td>
-    <td style="text-align: center">65.6</td>
+    <td align="center">65.6</td>
   </tr>
 </table>
 <p>Source: ASHRAE - IESNA 90.1</p>
@@ -1485,43 +1485,43 @@ There are no exceptions to this provision.
 <table>
   <caption><i>Table 13. Water Fixture Performance Requirements</i></caption>
   <tr>
-    <th style="text-align: center">Type of Fixtures</th>
-    <th style="text-align: center" colspan="2">Maximum Flow Rate</th>
+    <th align="center">Type of Fixtures</th>
+    <th align="center" colspan="2">Maximum Flow Rate</th>
   </tr>
   <tr>
     <td>Dual flush<br>Water closet</td>
-    <td style="text-align: center">&le; 6 full<br>3 low</td>
-    <td style="text-align: center">liters / flushing cycle</td>
+    <td align="center">&le; 6 full<br>3 low</td>
+    <td align="center">liters / flushing cycle</td>
   </tr>
   <tr>
     <td>Single flush<br>Water closet</td>
-    <td style="text-align: center">4.9</td>
-    <td style="text-align: center">liters / flushing cycle</td>
+    <td align="center">4.9</td>
+    <td align="center">liters / flushing cycle</td>
   </tr>
   <tr>
     <td>Shower</td>
-    <td style="text-align: center">&le; 9 (80 psi)</td>
-    <td style="text-align: center">liters / min at 551.6 kPa</td>
+    <td align="center">&le; 9 (80 psi)</td>
+    <td align="center">liters / min at 551.6 kPa</td>
   </tr>
   <tr>
     <td>Urinals</td>
-    <td style="text-align: center">&le; 1</td>
-    <td style="text-align: center">liters / flushing cycle</td>
+    <td align="center">&le; 1</td>
+    <td align="center">liters / flushing cycle</td>
   </tr>
   <tr>
     <td>Lavatory taps</td>
-    <td style="text-align: center">&le; 4.8 (60 psi)</td>
-    <td style="text-align: center">liters / min at 417.7 kPa</td>
+    <td align="center">&le; 4.8 (60 psi)</td>
+    <td align="center">liters / min at 417.7 kPa</td>
   </tr>
   <tr>
     <td>Kitchen faucets</td>
-    <td style="text-align: center">&le; 4.8 (60 psi)</td>
-    <td style="text-align: center">liters / min at 417.7 kPa</td>
+    <td align="center">&le; 4.8 (60 psi)</td>
+    <td align="center">liters / min at 417.7 kPa</td>
   </tr>
   <tr>
     <td>Handheld bidet sprays</td>
-    <td style="text-align: center">&le; 4.8 (60 psi)</td>
-    <td style="text-align: center">liters / min at 417.7 kPa</td>
+    <td align="center">&le; 4.8 (60 psi)</td>
+    <td align="center">liters / min at 417.7 kPa</td>
   </tr>
 </table>
 <p>Source: Prescribed Requirements, IFC Philippine Green Building Code Project, May 2013</p>
@@ -1588,124 +1588,124 @@ There are no exceptions to this provision.
 <table>
   <caption><i>Table 14. VOC Limits</i></caption>
   <tr>
-    <th style="text-align: center">Application / Product Type</th>
-    <th style="text-align: center">Maximum VOC Limit<br>(g/L less water)</th>
+    <th align="center">Application / Product Type</th>
+    <th align="center">Maximum VOC Limit<br>(g/L less water)</th>
   </tr>
   <tr>
     <td>Flat paint</td>
-    <td style="text-align: center">50</td>
+    <td align="center">50</td>
   </tr>
   <tr>
     <td>Non-flat paint</td>
-    <td style="text-align: center">150</td>
+    <td align="center">150</td>
   </tr>
   <tr>
     <td>Anti-rust paint</td>
-    <td style="text-align: center">250</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>Lacquer (clear wood finish)</td>
-    <td style="text-align: center">550</td>
+    <td align="center">550</td>
   </tr>
   <tr>
     <td>Sanding sealer (clear wood finish)</td>
-    <td style="text-align: center">350</td>
+    <td align="center">350</td>
   </tr>
   <tr>
     <td>Varnish (clear wood finish)</td>
-    <td style="text-align: center">350</td>
+    <td align="center">350</td>
   </tr>
   <tr>
     <td>Floor coating</td>
-    <td style="text-align: center">100</td>
+    <td align="center">100</td>
   </tr>
   <tr>
     <td>Shellac (clear)</td>
-    <td style="text-align: center">730</td>
+    <td align="center">730</td>
   </tr>
   <tr>
     <td>Shellac (pigmented)</td>
-    <td style="text-align: center">550</td>
+    <td align="center">550</td>
   </tr>
   <tr>
     <td>Stain</td>
-    <td style="text-align: center">250</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>Faux finish coating</td>
-    <td style="text-align: center">350</td>
+    <td align="center">350</td>
   </tr>
   <tr>
     <td>Architectural sealant</td>
-    <td style="text-align: center">250</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>Non-membrane roof sealant</td>
-    <td style="text-align: center">300</td>
+    <td align="center">300</td>
   </tr>
   <tr>
     <td>Single ply roof membrane</td>
-    <td style="text-align: center">450</td>
+    <td align="center">450</td>
   </tr>
   <tr>
     <td>Waterproofing sealer</td>
-    <td style="text-align: center">250</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>Waterproofing sealer (concrete / masonry)</td>
-    <td style="text-align: center">400</td>
+    <td align="center">400</td>
   </tr>
   <tr>
     <td>All other sealers</td>
-    <td style="text-align: center">200</td>
+    <td align="center">200</td>
   </tr>
   <tr>
     <td>Indoor adhesive</td>
-    <td style="text-align: center">50</td>
+    <td align="center">50</td>
   </tr>
   <tr>
     <td>Wood flooring adhesive</td>
-    <td style="text-align: center">100</td>
+    <td align="center">100</td>
   </tr>
   <tr>
     <td>Subfloor adhesive</td>
-    <td style="text-align: center">50</td>
+    <td align="center">50</td>
   </tr>
   <tr>
     <td>Ceramic tile adhesive</td>
-    <td style="text-align: center">65</td>
+    <td align="center">65</td>
   </tr>
   <tr>
     <td>Contact adhesive</td>
-    <td style="text-align: center">80</td>
+    <td align="center">80</td>
   </tr>
   <tr>
     <td>Drywall panel adhesive</td>
-    <td style="text-align: center">50</td>
+    <td align="center">50</td>
   </tr>
   <tr>
     <td>Multipurpose construction adhesive</td>
-    <td style="text-align: center">70</td>
+    <td align="center">70</td>
   </tr>
   <tr>
     <td>Structural glazing adhesive</td>
-    <td style="text-align: center">100</td>
+    <td align="center">100</td>
   </tr>
   <tr>
     <td>Special purpose contact adhesive</td>
-    <td style="text-align: center">250</td>
+    <td align="center">250</td>
   </tr>
   <tr>
     <td>PVC welding</td>
-    <td style="text-align: center">510</td>
+    <td align="center">510</td>
   </tr>
   <tr>
     <td>Concrete curing compound</td>
-    <td style="text-align: center">350</td>
+    <td align="center">350</td>
   </tr>
   <tr>
     <td>Wood preservative</td>
-    <td style="text-align: center">350</td>
+    <td align="center">350</td>
   </tr>
 </table>
 <p><i>VOC levels are measured in grams of VOC per liter of material</i></p>
@@ -1745,8 +1745,8 @@ There are no exceptions to this provision.
 <table>
   <caption><i>Table 15. MRF Minimum Daily Storage Space Requirements</i></caption>
   <tr>
-    <th style="text-align: center">Use / Occupancy</th>
-    <th style="text-align: center">Requirement</th>
+    <th align="center">Use / Occupancy</th>
+    <th align="center">Requirement</th>
   </tr>
   <tr>
     <td>Residential Dwelling: Condominium</td>
