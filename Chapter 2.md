@@ -60,7 +60,7 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
 
   <div>
   <table>
-    <caption><i>Table 2. SHGC and VLT for different WWR</i></caption>
+    <caption><i>Table 2. SHGC and VLT for Different WWR</i></caption>
     <tr>
       <th align="center">WWR</th>
       <th align="center">Maximum SHGC</th>
@@ -133,13 +133,14 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
 </ol>
 
 <p align="center">
-<i>Figure 1. Schematic representation of a window and related horizontal overhang or vertical fin</i><br>
-<img src="https://github.com/philgbc/PGBCode/blob/master/src/Fig-01.png" alt="Figure 1" width="200" height="200">
+<i>Figure 1. Schematic Representation of a Window and Related Horizontal Overhang or Vertical Fin</i>
+<br>
+<img src="https://github.com/philgbc/PGBCode/blob/master/Figure%201.png" alt="Figure 1" width="200" height="200">
 </p>
 
 <div>
 <table>
-  <caption><i>Table 3. Correction factor for each horizontal overhang shading projection</caption>
+  <caption><i>Table 3. Correction Factor for each Horizontal Overhang Shading Projection</caption>
   <tr>
     <th align="center">Depth-to-Height Ratio</th>
     <th align="center">Correction Factor</th>
@@ -159,7 +160,7 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
 </table>
 
 <table>
-  <caption><i>Table 4. Correction factor for each vertical fin shading projection</caption>
+  <caption><i>Table 4. Correction Factor for each Vertical Fin Shading Projection</caption>
   <tr>
     <th align="center">Depth-to-Width Ratio</th>
     <th align="center">Correction Factor</th>
@@ -216,7 +217,7 @@ Building metal roof surfaces shall either be colored white or have a minimum SRI
 
 <div>
 <table>
-  <caption><i>Table 5. SRI Values of basic colored coatings</i></caption>
+  <caption><i>Table 5. SRI Values of Basic Colored Coatings</i></caption>
   <tr>
     <th align="center">Metal Surface</th>
     <th align="center">Solar Reflectance Index</th>
