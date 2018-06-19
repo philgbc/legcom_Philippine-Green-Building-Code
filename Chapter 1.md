@@ -30,42 +30,44 @@ The GB Code adopts a staggered or incremental approach and is subject to periodi
 
 ## Section 8. Building Use / Occupancy Coverage and Application
 
-<p>8.1&emsp;The provisions of the GB Code shall apply to all new construction and/or with alteration of buildings in the following classification with the required minimum Total Gross Floor Areas (TGFA) as indicated in Table 1 below:</p>
+<dl>
+  <dd>8.1&emsp;The provisions of the GB Code shall apply to all new construction and/or with alteration of buildings in the following classification with the required minimum Total Gross Floor Areas (TGFA) as indicated in Table 1 below:</dd>
+</dl>
 
 <div>
 <table>
   <caption><i>Table 1. Minimum TGFA for Building Use / Occupancy</i></caption>
   <tr>
-    <th style="text-align: center">USE / OCCUPANCY CLASSIFICATION<br>of any jurisdiction</th>
-    <th style="text-align: center">TGFA<br>as defined by NBC</th>
+    <th align="center">USE / OCCUPANCY CLASSIFICATION<br>of any jurisdiction</th>
+    <th align="center">TGFA<br>as defined by NBC</th>
   </tr>
   <tr>
     <td>Residential Dwelling: Condominium<sup>1</sup></td>
-    <td style="text-align: center">20,000 sqm</td>
+    <td align="center">20,000 sqm</td>
   </tr>
   <tr>
     <td>Hotel / Resort</td>
-    <td style="text-align: center">10,000 sqm</td>
+    <td align="center">10,000 sqm</td>
   </tr>
   <tr>
     <td>Educational: School</td>
-    <td style="text-align: center">10,000 sqm</td>
+    <td align="center">10,000 sqm</td>
   </tr>
   <tr>
     <td>Institutional: Hospital</td>
-    <td style="text-align: center">10,000 sqm</td>
+    <td align="center">10,000 sqm</td>
   </tr>
   <tr>
     <td>Business: Office</td>
-    <td style="text-align: center">10,000 sqm</td>
+    <td align="center">10,000 sqm</td>
   </tr>
   <tr>
     <td>Mercantile: Mall</td>
-    <td style="text-align: center">15,000 sqm</td>
+    <td align="center">15,000 sqm</td>
   </tr>
   <tr>
     <td>Mixed Occupancy<sup>2</sup></td>
-    <td style="text-align: center">10,000 sqm</td>
+    <td align="center">10,000 sqm</td>
   </tr>
 </table>
 <p>Sources: NBC, Baseline Studies, IFC Philippine Green Building Code Project, May 2013</p>
