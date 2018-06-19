@@ -59,54 +59,54 @@ WWR shall be balanced with SHGC to maintain flexibility in design. To further de
   <p>For each WWR value, the SHGC and VLT shall be in accordance with Table 2.</p>
 
   <div>
-  <table align="center">
+  <table>
     <caption><i>Table 2. SHGC and VLT for different WWR</i></caption>
     <tr>
       <th align="center">WWR</th>
       <th align="center">Maximum SHGC</th>
       <th align="center">Minimum VLT</th>
     </tr>
-    <tr>
+    <tr align="center">
       <td>10</td>
       <td>0.80</td>
       <td>0.80</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>20</td>
       <td>0.70</td>
       <td>0.70</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>30</td>
       <td>0.60</td>
       <td>0.70</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>40</td>
       <td>0.45</td>
       <td>0.60</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>50</td>
       <td>0.44</td>
       <td>0.55</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>60</td>
       <td>0.37</td>
       <td>0.50</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>70</td>
       <td>0.31</td>
       <td>0.45</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>80</td>
       <td>0.27</td>
       <td>0.40</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>90</td>
       <td>0.24</td>
       <td>0.35</td>
@@ -137,41 +137,41 @@ _Figure 1. Schematic representation of a window and related horizontal overhang 
 * **Insert Figure 1.**
 
 <div>
-<table align="center">
+<table>
   <caption><i>Table 3. Correction factor for each horizontal overhang shading projection</caption>
   <tr>
     <th align="center">Depth-to-Height Ratio</th>
     <th align="center">Correction Factor</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>0.1</td>
     <td>1.03</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>0.5</td>
     <td>1.06</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1</td>
     <td>1.08</td>
   </tr>
 </table>
 
-<table align="center">
+<table>
   <caption><i>Table 4. Correction factor for each vertical fin shading projection</caption>
   <tr>
     <th align="center">Depth-to-Width Ratio</th>
     <th align="center">Correction Factor</th>
   </tr>
-  <tr>
+  <tr align="center">
     <td>0.1</td>
     <td>1.04</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>0.5</td>
     <td>1.12</td>
   </tr>
-  <tr>
+  <tr align="center">
     <td>1</td>
     <td>1.17</td>
   </tr>
