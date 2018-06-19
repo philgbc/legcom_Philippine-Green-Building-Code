@@ -32,5 +32,5 @@ The Executive Director of NBCDO shall chair the Technical Working Group (TWG) an
   <dd>&emsp;18.16&emsp;<b>UAP</b> (United Architects of the Philippines)</dd>
   <dd>&emsp;18.17&emsp;<b>BOMAP</b> (Building Owners and Managers Association of the Philippines)</dd>
   <dd>&emsp;18.18&emsp;<b>PABA</b> (Philippine Association of Building Administrators)</dd>
-  <dd>&emsp;18.19>&emsp;<b>PABO</b> (Philippine Association of Building Officials)</dd>
+  <dd>&emsp;18.19&emsp;<b>PABO</b> (Philippine Association of Building Officials)</dd>
 </dl>
