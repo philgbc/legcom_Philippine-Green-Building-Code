@@ -1834,7 +1834,529 @@ Compliance to the minimum fresh air rates provided in the latest Philippine Soci
 There are no exceptions to this provision.
 
 <div>
-Insert Table 16.
+<table>
+  <caption><i>Table 16. Minimum Ventilation Rates in Breathing Zone</i></caption>
+  <tr>
+    <th rowspan="2" align="center">Occupancy Category</th>
+    <th colspan="2" align="center">People Outdoor Air Rate</th>
+    <th colspan="2" align="center">Area Outdoor Air Rate</th>
+    <th align="center">Max Default Occupancy Density</th>
+  </tr>
+  <tr>
+    <th align="center">(cfm / person)</th>
+    <th align="center">(cmh / person)</th>
+    <th align="center">(cfm / person)</th>
+    <th align="center">(cmh / person)</th>
+    <th align="center">(people / 1,000<br>sqft [90 sqm])</th>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>Hotel / Resort and Residential Dwelling: Condominimum</b></td>
+  </tr>
+  <tr>
+    <td>Bedroom / living room</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Lobbies / pre-function</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">30</td>
+  </tr>
+  <tr>
+    <td>Common corridors</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Multi-purpose assembly</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">120</td>
+  </tr>
+  <tr>
+    <td>Laundry rooms,<br>Central</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Laundry rooms<br>within dwelling rooms</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">10</td>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>Office Buildings</b></td>
+  </tr>
+  <tr>
+    <td>Office spaces</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">5</td>
+  </tr>
+  <tr>
+    <td>Reception areas</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">30</td>
+  </tr>
+  <tr>
+    <td>Telephone / data entry</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">60</td>
+  </tr>
+  <tr>
+    <td>Main entry lobbies</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Bank vaults / safe deposit</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">5</td>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>Mercantile: Mall</b></td>
+  </tr>
+  <tr>
+    <td>Sales area</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">15</td>
+  </tr>
+  <tr>
+    <td>Mall common areas</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">40</td>
+  </tr>  
+  <tr>
+    <td>Barbershop</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Beauty and nail salons</td>
+    <td align="center">20</td>
+    <td align="center">34</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Pet shops<br>(animal areas)</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Supermarket</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">8</td>
+  </tr>
+  <tr>
+    <td>Laundries</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Photo studios</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Pharmacy<br>(prep area)</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Computer<br>(not printing)</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">4</td>
+  </tr>
+  <tr>
+    <td>Restaurant dining rooms</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">70</td>
+  </tr>
+  <tr>
+    <td>Cafeteria / fast food dining</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">100</td>
+  </tr>
+  <tr>
+    <td>Bars, Cocktail lounges</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">100</td>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>Educational: School</b></td>
+  </tr>
+  <tr>
+    <td>Day care<br>(through age 4)</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Classrooms<br>(ages 5-8)</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Classrooms<br>(ages 9 plus)</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">35</td>
+  </tr>
+  <tr>
+    <td>Lecture classroom</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">65</td>
+  </tr>
+  <tr>
+    <td>Lecture hall<br>(fixed seats)</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">150</td>
+  </tr>
+  <tr>
+    <td>Art classroom</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Science laboratories</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Wood / metal shop</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Computer lab</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Media center</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Music / theater / dance</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">35</td>
+  </tr>
+  <tr>
+    <td>Multi-use assembly</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">100</td>
+  </tr>
+  <tr>
+    <td>University / college<br>laboratories</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Sports arena<br>(play area)</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">0.3</td>
+    <td align="center">0.984</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Gym, Stadium<br>(play area)</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">0.3</td>
+    <td align="center">0.984</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Spectator area</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">150</td>
+  </tr>
+  <tr>
+    <td>Swimming<br>(pool and deck)</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">0.48</td>
+    <td align="center">1.5744</td>
+    <td align="center">-</td>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>General</b></td>
+  </tr>
+  <tr>
+    <td>Conference / meeting</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">50</td>
+  </tr>
+  <tr>
+    <td>Corridors</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Storage rooms</td>
+    <td align="center">-</td>
+    <td align="center"></td>
+    <td align="center">1.12</td>
+    <td align="center">3.6736</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td>Break room</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">25</td>
+  </tr>
+  <tr>
+    <td>Coffee room</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Disco / dance floors</td>
+    <td align="center">20</td>
+    <td align="center">34</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">100</td>
+  </tr>
+  <tr>
+    <td>Health club<br>(aerobics room)</td>
+    <td align="center">20</td>
+    <td align="center">34</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">40</td>
+  </tr>
+  <tr>
+    <td>Health club<br>(weights room)</td>
+    <td align="center">20</td>
+    <td align="center">34</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Bowling gallery<br>(seating)</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">40</td>
+  </tr>
+  <tr>
+    <td>Gambling casino</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">120</td>
+  </tr>
+  <tr>
+    <td>Game arcades</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.18</td>
+    <td align="center">0.5904</td>
+    <td align="center">20</td>
+  </tr>
+  <tr>
+    <td>Stages, Studios</td>
+    <td align="center">10</td>
+    <td align="center">17</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">70</td>
+  </tr>
+  <tr align="center">
+    <td colspan="6"><b>Public Assembly Places</b></td>
+  </tr>
+  <tr>
+    <td>Auditorium seating areas</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">150</td>
+  </tr>
+  <tr>
+    <td>Places of religious worship</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">120</td>
+  </tr>
+  <tr>
+    <td>Courtrooms</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">70</td>
+  </tr>
+  <tr>
+    <td>Legislative chambers</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">50</td>
+  </tr>
+  <tr>
+    <td>Libraries</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">10</td>
+  </tr>
+  <tr>
+    <td>Lobbies</td>
+    <td align="center">5</td>
+    <td align="center">8.5</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">150</td>
+  </tr>
+  <tr>
+    <td>Museums (children's)</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.12</td>
+    <td align="center">0.3936</td>
+    <td align="center">40</td>
+  </tr>
+  <tr>
+    <td>Museums / galleries</td>
+    <td align="center">7.5</td>
+    <td align="center">12.75</td>
+    <td align="center">0.06</td>
+    <td align="center">0.1968</td>
+    <td align="center">40</td>
+  </tr>
+</table>
+<p>Source: 2010 PSVARE Standards</p>
 </div>
 
 ### 15.2 DESIGNATED SMOKING AREA
