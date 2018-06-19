@@ -1,4 +1,4 @@
-# Annex 1 DEFINITION OF TERMS
+# ANNEX 1 DEFINITION OF TERMS
 
 **Accredited Professional Organizations (APO)** – professional organizations accredited by the Professional Regulatory Commission (PRC)
 
